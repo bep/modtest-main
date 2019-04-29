@@ -2,3 +2,5 @@ github.com/bep/modtest-resource v0.0.0-20190429113933-5b055081abf2 h1:tz/fy6GQyX
 github.com/bep/modtest-resource v0.0.0-20190429113933-5b055081abf2/go.mod h1:Tq3hQchXli4TRoMVi1Xhc2yjGRlQnGAthFmPmXVsNjo=
 github.com/bep/modtest-resource v1.0.0 h1:zxapxKZ31N+QsbUkwFqUVp3yTWsjgm+2MeKT/VAsqBs=
 github.com/bep/modtest-resource v1.0.0/go.mod h1:Tq3hQchXli4TRoMVi1Xhc2yjGRlQnGAthFmPmXVsNjo=
+github.com/bep/modtest-resource v1.0.1/go.mod h1:kQ1TpqLE3yv0EXicebSPpgwRsP2OU8KvVaO+FlCC/as=
+github.com/bep/modtest-resource2 v1.0.0/go.mod h1:CKBHHQ3xAOBLJe2rjCFAFwHIYeSuZ9YVAHcSYa3TuS4=
